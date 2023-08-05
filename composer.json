@@ -1,0 +1,15 @@
+{
+    "name": "edi/coupleexpenses",
+    "description": "despesas do casal",
+    "autoload": {
+        "psr-4": {
+            "Edi\\Coupleexpenses\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "edilsonCsilva"
+        }
+    ],
+    "require": {}
+}
